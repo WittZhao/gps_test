@@ -1,0 +1,16 @@
+﻿<RCC>
+    <qresource prefix="/images">
+        <file>images/tu.png</file>
+        <file>images/qt_zh_CN.qm</file>
+        <file>images/setting.jpg</file>
+        <file>images/test.png</file>
+        <file>images/update.png</file>
+        <file>images/log.jpg</file>
+        <file>images/clear.png</file>
+        <file>images/start.png</file>
+        <file>images/stop.png</file>
+        <file>images/com.png</file>
+        <file>images/power.png</file>
+        <file>images/app.jpg</file>
+    </qresource>
+</RCC>
